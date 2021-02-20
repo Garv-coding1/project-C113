@@ -1,0 +1,8 @@
+.btn-success {
+    font-size:45px ;
+}
+
+canvas {
+    border: rgb(2, 255, 200) 3px ridge;
+    box-shadow: black 5px 5px 15px;
+}
